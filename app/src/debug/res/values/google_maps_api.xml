@@ -1,0 +1,19 @@
+<resources>
+    <!--
+    TODO: Before you run your application, you need a Google Maps API key.
+
+    To get one, follow this link, follow the directions and press "Create" at the end:
+
+    https://console.developers.google.com/flows/enableapi?apiid=maps_android_backend&keyType=CLIENT_SIDE_ANDROID&r=1C:B4:28:21:4C:29:66:A3:BB:10:E8:D1:6B:54:9F:7A:68:E5:DF:5A%3Bru.snikitin.example.map
+
+    You can also add your credentials to an existing key, using this line:
+    1C:B4:28:21:4C:29:66:A3:BB:10:E8:D1:6B:54:9F:7A:68:E5:DF:5A;ru.gmcs.snikitin.myapplication
+
+    Alternatively, follow the directions here:
+    https://developers.google.com/maps/documentation/android/start#get-key
+
+    Once you have your key (it starts with "AIza"), replace the "google_maps_key"
+    string in this file.
+    -->
+    <string name="google_maps_key" templateMergeStrategy="preserve" translatable="false">YOUR_API_KEY</string>
+</resources>
